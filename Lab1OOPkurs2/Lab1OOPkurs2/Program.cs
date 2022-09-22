@@ -8,7 +8,9 @@ namespace Lab1OOPkurs2
         {
             string x;
             x = Console.ReadLine();
+            int a = int.Parse(Console.ReadLine());
             Console.WriteLine("zdorow" + x );
+            Console.WriteLine("chislo" + a);
         }
     }
 }
