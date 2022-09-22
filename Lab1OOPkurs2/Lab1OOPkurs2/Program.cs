@@ -6,7 +6,9 @@ namespace Lab1OOPkurs2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string x;
+            x = Console.ReadLine();
+            Console.WriteLine("zdorow" + x);
         }
     }
 }
